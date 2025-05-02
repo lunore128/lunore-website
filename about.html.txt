@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Lunoré</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">Lunoré</div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section class="about">
+        <h1>Our Story</h1>
+        <p>Lunoré was born from a simple idea: sunglasses should adapt to you, not the other way around.</p>
+        
+        <div class="story">
+            <h2>2023</h2>
+            <p>Founded in Tel Aviv by a team of engineers and fashion designers.</p>
+        </div>
+        
+        <div class="story">
+            <h2>2024</h2>
+            <p>Developed the first working prototype of electrochromic lenses that change in under 1 second.</p>
+        </div>
+        
+        <div class="story">
+            <h2>2025</h2>
+            <p>Launching our first collection: "The Aurora Series"</p>
+        </div>
+    </section>
+</body>
+</html>

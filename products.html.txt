@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lunoré Products</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">Lunoré</div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section class="products">
+        <h1>The Collection</h1>
+        
+        <div class="product-card">
+            <img src="product1.jpg" alt="Aurora Black">
+            <h3>Aurora Black</h3>
+            <p>$179</p>
+            <button>Pre-order</button>
+        </div>
+        
+        <div class="product-card">
+            <img src="product2.jpg" alt="Neon Silver">
+            <h3>Neon Silver</h3>
+            <p>$199</p>
+            <button>Pre-order</button>
+        </div>
+        
+        <div class="product-card">
+            <img src="product3.jpg" alt="Solar Gold">
+            <h3>Solar Gold</h3>
+            <p>$219</p>
+            <button>Pre-order</button>
+        </div>
+    </section>
+</body>
+</html>

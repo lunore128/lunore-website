@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Lunoré</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">Lunoré</div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section class="contact">
+        <h1>Get In Touch</h1>
+        
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Email" required>
+            <textarea placeholder="Your Message"></textarea>
+            <button type="submit">Send</button>
+        </form>
+        
+        <div class="contact-info">
+            <p>Email: hello@lunore.com</p>
+            <p>Tel Aviv, Israel</p>
+        </div>
+    </section>
+</body>
+</html>

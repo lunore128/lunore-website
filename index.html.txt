@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lunoré</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome to Lunoré!</h1>
+    <p>If you see this, your website is working!</p>
+    <a href="about.html">Test About Page Link</a>
+</body>
+</html>
